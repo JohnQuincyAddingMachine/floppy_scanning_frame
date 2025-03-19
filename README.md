@@ -13,4 +13,4 @@ This is a 3D-printable frame to assist with consistent scans. It has an indentat
 
 While the 3½" side works great, the outline for the 5¼" sleeve doesn't work so well due to the variations in the size and shape of various sleeves. I've included a version that omits the sleeve cutout (bare disk only), but note that I haven't tested this variant. Should work, though. 
 
-Designed (if you can call it that) in FreeCAD.
+Designed (if you can call it that) in [FreeCAD](https://www.freecad.org/), and released under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) license.
